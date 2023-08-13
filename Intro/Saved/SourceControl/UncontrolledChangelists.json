@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/aisle/Documents/UdemyUnreal/Intro/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/X5/HU50PBGRYYMIL2MOZE9UNT.uasset",
+				"C:/Users/aisle/Documents/UdemyUnreal/Intro/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/SQ/56FDIJ2LWJ5S4RN0LBG1P7.uasset",
+				"C:/Users/aisle/Documents/UdemyUnreal/Intro/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/6M/VFK647MVR5FB13MS38SJ4E.uasset",
+				"C:/Users/aisle/Documents/UdemyUnreal/Intro/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/L4/DTKVLIRQDBJBA5HVTQN218.uasset",
+				"C:/Users/aisle/Documents/UdemyUnreal/Intro/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/A7/WOU9WFR90M6VFIMD1ZX1XE.uasset",
+				"C:/Users/aisle/Documents/UdemyUnreal/Intro/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/ED/GCM8TH2B1S661RTJPGA4VB.uasset",
+				"C:/Users/aisle/Documents/UdemyUnreal/Intro/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/L6/O2AGA3EE473YC0TO7WYP6G.uasset",
+				"C:/Users/aisle/Documents/UdemyUnreal/Intro/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset"
+			]
+		}
+	]
+}
